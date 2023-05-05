@@ -10,5 +10,11 @@ dimwishlist:item=392008588&perks=1168162263,1015611457
 dimwishlist:item=392008588&perks=1354429876,831391274
 
 // Perpetualis - 幽灵骏马 (god-pve)
-//notes: 热门特质组合2 测试 tags:god-pve
+//notes: 热门特质组合2 测试DIM tags:god-pve
 dimwishlist:item=392008588&perks=588594999,2896038713
+
+
+// Perpetualis - 幽灵骏马 (god-pve)
+//notes: 热门特质组合4 测试可用推荐 tags:god-pve
+dimwishlist:item=1389546626&perks=3661387068,106909392,1168162263,3619207468,1702976605
+

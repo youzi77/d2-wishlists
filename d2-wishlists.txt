@@ -1,20 +1,27 @@
-title:通过light.gg抓取的愿望清单
-description:通过light.gg抓取的愿望清单
+title:逆天逼の家
+description:逆天逼の家的愿望清单
 
-// Perpetualis - 幽灵骏马 (god-pve)
-//notes: 热门特质组合1 不法之徒+杀戮弹匣 tags:god-pve
+// Taraxippos - 幽灵骏马 (pve)
+//notes: 不法之徒
++ 高爆载荷/幼雏/杀戮弹匣 tags:pve
 dimwishlist:item=1389546626&perks=1168162263,1015611457
+dimwishlist:item=1389546626&perks=1168162263,3038247973
+dimwishlist:item=1389546626&perks=1168162263,831391274
 
-// Perpetualis - 幽灵骏马 (god-pve)
-//notes: 热门特质组合2 事不过四+ 幼雏 tags:god-pve
+
+// Taraxippos - 幽灵骏马 (pve)
+//notes: 事不过四+幼雏/高爆载荷 tags:pve
 dimwishlist:item=1389546626&perks=1354429876,831391274
 
-// Perpetualis - 幽灵骏马 (god-pve)
-//notes: 热门特质组合2 测试DIM tags:god-pve
-dimwishlist:item=1389546626&perks=588594999,2896038713
+
+// Taraxippos - 幽灵骏马 (pve)
+//notes: 直击要害
++ 高爆载荷 tags:pve
+dimwishlist:item=1389546626&perks=1365187766,3038247973
 
 
-// Perpetualis - 幽灵骏马 (god-pve)
-//notes: 热门特质组合4 测试可用推荐 tags:god-pve
-dimwishlist:item=1389546626&perks=3661387068,106909392,1168162263,3619207468,1702976605
-
+// Taraxippos - 幽灵骏马 (pve)
+//notes: 禅意时刻
++ 杀戮弹匣 tags:pve
+dimwishlist:item=1389546626&perks=2387244414,1015611457
+dimwishlist:item=1389546626&perks=2387244414,3038247973

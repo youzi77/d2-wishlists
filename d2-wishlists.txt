@@ -8,3 +8,7 @@ dimwishlist:item=392008588&perks=1168162263,1015611457
 // Perpetualis - 幽灵骏马 (god-pve)
 //notes: 热门特质组合2 事不过四+ 幼雏 tags:god-pve
 dimwishlist:item=392008588&perks=1354429876,831391274
+
+// Perpetualis - 幽灵骏马 (god-pve)
+//notes: 热门特质组合2 测试 tags:god-pve
+dimwishlist:item=392008588&perks=588594999,2896038713

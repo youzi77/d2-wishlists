@@ -2,26 +2,59 @@ title:逆天逼の家
 description:逆天逼の家的愿望清单
 
 // Taraxippos - 幽灵骏马 (pve)
-//notes: 不法之徒
-+ 高爆载荷/幼雏/杀戮弹匣 tags:pve
+//notes: 不法之徒 + 高爆载荷/幼雏/杀戮弹匣 from light.gg tags:pve
 dimwishlist:item=1389546626&perks=1168162263,1015611457
 dimwishlist:item=1389546626&perks=1168162263,3038247973
 dimwishlist:item=1389546626&perks=1168162263,831391274
 
 
 // Taraxippos - 幽灵骏马 (pve)
-//notes: 事不过四+幼雏/高爆载荷 tags:pve
+//notes: 事不过四+幼雏/高爆载荷 from light.gg tags:pve
 dimwishlist:item=1389546626&perks=1354429876,831391274
 
 
 // Taraxippos - 幽灵骏马 (pve)
-//notes: 直击要害
-+ 高爆载荷 tags:pve
+//notes: 直击要害+ 高爆载荷 from light.gg tags:pve
 dimwishlist:item=1389546626&perks=1365187766,3038247973
 
 
 // Taraxippos - 幽灵骏马 (pve)
-//notes: 禅意时刻
-+ 杀戮弹匣 tags:pve
+//notes: 禅意时刻 + 杀戮弹匣 from light.gg tags:pve
 dimwishlist:item=1389546626&perks=2387244414,1015611457
 dimwishlist:item=1389546626&perks=2387244414,3038247973
+
+
+// Taraxippos - 力拔头筹 (pve)
+//notes: 嫉妒刺客 + 冲击支撑 from light.gg tags:pve
+dimwishlist:item=3559361670&perks=968510818,776531651
+
+// Taraxippos - 力拔头筹 (pve)
+//notes: 永动不歇 + 冲击支撑 from light.gg tags:pve
+dimwishlist:item=3559361670&perks=1428297954,776531651
+
+// Taraxippos - 力拔头筹 (pvp)
+//notes: 永动不歇 + 斗剑士 from light.gg tags:pvp 
+dimwishlist:item=3559361670&perks=1428297954,4082225868
+
+// Taraxippos - 力拔头筹 (pve)
+//notes: 威胁探测 + 冲击支撑 from light.gg tags:pve 
+dimwishlist:item=3559361670&perks=4071163871,776531651
+
+// Taraxippos - 力拔头筹 (pvp)
+//notes: 动态减摆 + 直击要害 from light.gg tags:pvp 
+dimwishlist:item=3559361670&perks=1359896290,1365187766
+
+
+// Taraxippos - 力拔头筹 (pvp)
+//notes: 永动不歇 + 测距仪 from light.gg tags:pvp 
+dimwishlist:item=3559361670&perks=1428297954,2846385770
+
+
+// Taraxippos - 力拔头筹 (pvp)
+//notes: 威胁探测 + 斗剑士 from light.gg tags:pvp 
+dimwishlist:item=3559361670&perks=4071163871,4082225868
+
+
+// Taraxippos - 力拔头筹 (pvp)
+//notes: 射击切换 + 测距仪 from light.gg tags:pvp 
+dimwishlist:item=3559361670&perks=2586829431,2846385770

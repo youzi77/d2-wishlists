@@ -3,15 +3,15 @@ description:通过light.gg抓取的愿望清单
 
 // Perpetualis - 幽灵骏马 (god-pve)
 //notes: 热门特质组合1 不法之徒+杀戮弹匣 tags:god-pve
-dimwishlist:item=392008588&perks=1168162263,1015611457
+dimwishlist:item=1389546626&perks=1168162263,1015611457
 
 // Perpetualis - 幽灵骏马 (god-pve)
 //notes: 热门特质组合2 事不过四+ 幼雏 tags:god-pve
-dimwishlist:item=392008588&perks=1354429876,831391274
+dimwishlist:item=1389546626&perks=1354429876,831391274
 
 // Perpetualis - 幽灵骏马 (god-pve)
 //notes: 热门特质组合2 测试DIM tags:god-pve
-dimwishlist:item=392008588&perks=588594999,2896038713
+dimwishlist:item=1389546626&perks=588594999,2896038713
 
 
 // Perpetualis - 幽灵骏马 (god-pve)

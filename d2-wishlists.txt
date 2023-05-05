@@ -61,5 +61,5 @@ dimwishlist:item=3559361670&perks=2586829431,2846385770
 
 
 // Taraxippos - IKELOS_SMG_V1.0.3 (pve)
-//notes: 射击切换 + 测距仪 by 急狐 tags:pve 
+//notes: 喂食狂热 + 伏特子弹  by 急狐 tags:pve 
 dimwishlist:item=2149683300&perks=2779035018,2173046394
